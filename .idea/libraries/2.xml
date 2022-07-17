@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="2">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-clean-plugin/2.5" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-clean-plugin/2.5" recursive="false" />
+  </library>
+</component>
